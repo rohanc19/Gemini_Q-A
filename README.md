@@ -1,4 +1,4 @@
-##OBJECT IDENTIFIER
+
 # Gemini Q&A Application
 
 ## Project Overview
